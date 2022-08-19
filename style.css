@@ -28,6 +28,10 @@ body {
   width: 80%;
   margin: 0 auto;
 
-  padding: 5em;
+  padding: 2em;
  
+}
+/* added intro content */
+.intro-content{
+  width:50%;
 }
